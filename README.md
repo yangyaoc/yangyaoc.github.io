@@ -1,7 +1,7 @@
 # Hello, I'm Yao
 <a href="https://www.linkedin.com/in/yaocyang/"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 
-I am a digital transformation strategist with digital marketing & cloud solution expreience. 
+I am a digital transformation strategist with digital marketing & cloud solution expreience of 7 years. 
 
 ## Objective
 [Provide Objective - Remove this afterwards]]

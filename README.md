@@ -4,8 +4,6 @@
 I am a digital transformation strategist with digital marketing & cloud solution expreience of 7 years. 
 
 ## Objective
-[Provide Objective - Remove this afterwards]]
-
 My journey in digital realm has led me to develop a passion for cybersecurity, and I am now eager to transition into this field, specifically aiming to join as a cybersecurity analyst.
 
 ## Skills
@@ -13,12 +11,12 @@ My journey in digital realm has led me to develop a passion for cybersecurity, a
 
 | Skill                                         | Associated Project         |
 |-----------------------------------------------|----------------------------|
-| SIEM Implementation and Log Analysis          | <a href="https://google.com">Detection Lab</a>|
-| Network Security | <a href="https://google.com">Detection Lab</a>|
+| Network Traffic Analysis          | <a href="https://google.com">Manage Security Risks Lab</a>|
+| Vulnerability assessment | <a href="https://google.com">Detection Lab</a>|
 | Threat Analysis & Vulnerabilities Assessment        | SOC Automation Lab|
-| Incident Response Planning and Execution      | SOC Automation Lab|
-| NIST Risk Management Framework (RMF) / Cybersecurity Framework (CSF)                | SOC Automation Lab|
-| Scripting and Automation for Threat Mitigation | SOC Automation Lab|
+| Incident Response Planning and Execution      | Detection and Response Lab|
+| NIST Risk Management Framework (RMF) / Cybersecurity Framework (CSF)   | Framework Lab|
+| Scripting and Automation for Threat Mitigation | Python Automation Lab|
 
 ## Tools
 [Provide tools and break them down into categories. Use ChatGPT to help create the link - Remove this afterwards]]
@@ -26,8 +24,6 @@ My journey in digital realm has led me to develop a passion for cybersecurity, a
 ### Network
 <div>
     <img src="https://img.shields.io/badge/-Wireshark-1679A7?&style=for-the-badge&logo=Wireshark&logoColor=white" />
-    <img src="https://img.shields.io/badge/-Suricata-EF3B2D?&style=for-the-badge&logo=Suricata&logoColor=white" />
-    <img src="https://img.shields.io/badge/-Zeek-777BB4?&style=for-the-badge&logo=Zeek&logoColor=white" />
 </div>
 
 ### Endpoint
@@ -38,9 +34,7 @@ My journey in digital realm has led me to develop a passion for cybersecurity, a
 
 ### SIEM
 <div>
-    <img src="https://img.shields.io/badge/-Microsoft_Sentinel-0078D4?&style=for-the-badge&logo=Microsoft&logoColor=white" />
     <img src="https://img.shields.io/badge/-Splunk-000000?&style=for-the-badge&logo=Splunk&logoColor=white" />
-    <img src="https://img.shields.io/badge/-Elastic-005571?&style=for-the-badge&logo=Elastic&logoColor=white" />
 </div>
 
 ## Certifications

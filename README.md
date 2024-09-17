@@ -7,7 +7,7 @@
 
 
 ## Objective
-My journey in digital realm has led me to develop a passion for cybersecurity, and I am now eager to transition into this field, specifically aiming to join as a cybersecurity analyst. This is my portfolio webiste which demonstrates that I have the skillsets to monitor, analyze, and respond to security incidents. As of 2024, I am preparing to be CISSP certified.
+My journey in digital realm has led me to develop a passion for cybersecurity, and I am now eager to transition into this field, specifically aiming to join as a <ins>cybersecurity analyst</ins>. This is my portfolio webiste which demonstrates that I have the skillsets to monitor, analyze, and respond to security incidents. As of 2024, I am preparing to be CISSP certified.
 
 ## Skills
 

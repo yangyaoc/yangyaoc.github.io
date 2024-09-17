@@ -20,7 +20,6 @@ My journey in digital realm has led me to develop a passion for cybersecurity, a
 | 5. Detection & Response   | Framework Lab|
 | 6. Python Automation for Threat Mitigation | Python Automation Lab|
 
-
 ## Tools
 <div>
     <img src="https://img.shields.io/badge/-Wireshark-1679A7?&style=for-the-badge&logo=Wireshark&logoColor=white" />

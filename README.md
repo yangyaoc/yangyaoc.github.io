@@ -1,7 +1,7 @@
 # Hello, I'm Yao
 <a href="https://www.linkedin.com/in/yaocyang/"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 
-I am a digital transformation strategist with digital marketing & cloud solution expreience of 7 years. 
+I have experices in digital marketing, ecommerce, cloud services, and payment solutions. Currently, I'm based in Hong Kong, bilingual in Mandarin and English. 
 
 ## Objective
 My journey in digital realm has led me to develop a passion for cybersecurity, and I am now eager to transition into this field, specifically aiming to join as a cybersecurity analyst.

@@ -2,7 +2,7 @@
 ## About me
 <div></div>
 <div>📍Hong Kong | 🌐 Mandarin & English | ✉️<a href="mailto:yangyaoc@gmail.com"> yangyaoc@gmail.com </a></div>
-<div>I have 7 years of professional experice in digital marketing, ecommerce, cloud services, and payment solutions. </div>
+<div>I have 7 years of professional experience in digital marketing, ecommerce, cloud services, and payment solutions. </div>
 
 
 

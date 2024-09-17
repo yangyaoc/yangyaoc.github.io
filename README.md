@@ -2,8 +2,8 @@
 <a href="https://www.linkedin.com/in/yaocyang/"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 
 I have experices in digital marketing, ecommerce, cloud services, and payment solutions. 
-<div>🌐 Mandarin & English </div>
 <div>📍Hong Kong</div>
+<div>🌐 Mandarin & English </div>
 
 ## Objective
 My journey in digital realm has led me to develop a passion for cybersecurity, and I am now eager to transition into this field, specifically aiming to join as a cybersecurity analyst.

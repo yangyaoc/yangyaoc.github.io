@@ -9,12 +9,11 @@ I have 7 years of experices in digital marketing, ecommerce, cloud services, and
 My journey in digital realm has led me to develop a passion for cybersecurity, and I am now eager to transition into this field, specifically aiming to join as a cybersecurity analyst.
 
 ## Skills
-[Provide skills and associated project. Make sure to hyperlink the project - Remove this afterwards]]
 
 | Skill                                         | Associated Portfolio         |
 |-----------------------------------------------|----------------------------|
 | Network Traffic Analysis          | <a href="https://github.com/yangyaoc/cybersecurity/blob/main/Security%20risk%20assessment%20report.pdf" target="_blank">Manage Security Risks Lab</a>|
-| Vulnerability assessment | <a href="https://google.com">Detection Lab</a>|
+| Vulnerability assessment | Detection Lab|
 | Threat Analysis & Vulnerabilities Assessment        | SOC Automation Lab|
 | Incident Response Planning and Execution      | Detection and Response Lab|
 | NIST Risk Management Framework (RMF) / Cybersecurity Framework (CSF)   | Framework Lab|
@@ -36,6 +35,3 @@ My journey in digital realm has led me to develop a passion for cybersecurity, a
 
 </div>
 
-## Projects
-- Detection Lab
-- SOC Automation Project

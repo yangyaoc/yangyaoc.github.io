@@ -19,8 +19,8 @@ My journey in digital realm has led me to develop a passion for cybersecurity, a
 | 4. Threat Intelligence     | Detection and Response Lab|
 | 5. Detection & Response   | Framework Lab|
 | 6. Python Automation for Threat Mitigation | Python Automation Lab|
-**note** 
- in PDF format to accommodate advanced formatting, include colorful presentations, and incorporate abundant screenshots for enhanced clarity and detail.
+<div>**note** 
+ in PDF format to accommodate advanced formatting, include colorful presentations, and incorporate abundant screenshots for enhanced clarity and detail.</div>
 
 ## Tools
 <div>

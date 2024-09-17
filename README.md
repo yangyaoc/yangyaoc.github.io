@@ -2,7 +2,7 @@
 <div><a href="https://www.linkedin.com/in/yaocyang/"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a></div>
 <div>I have 7 years of experices in digital marketing, ecommerce, cloud services, and payment solutions. </div>
 
-<div>📍Hong Kong 🌐 Mandarin & English ✉️<a href="mailto:yangyaoc@gmail.com"> yangyaoc@gmail.com </a>div>
+<div>📍Hong Kong 🌐 Mandarin & English ✉️<a href="mailto:yangyaoc@gmail.com"> yangyaoc@gmail.com </a></div>
 
 ## Objective
 My journey in digital realm has led me to develop a passion for cybersecurity, and I am now eager to transition into this field, specifically aiming to join as a cybersecurity analyst. This is my portfolio webiste that demonstrates that I have skillsets to monitor, analyze, and respond to security incidents.

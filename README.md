@@ -11,7 +11,7 @@ My journey in digital realm has led me to develop a passion for cybersecurity, a
 
 | Skill                                         | Associated Portfolio         |
 |-----------------------------------------------|----------------------------|
-| Network Traffic Analysis          | <a href="https://google.com">Manage Security Risks Lab</a>|
+| Network Traffic Analysis          | <a href="https://github.com/yangyaoc/cybersecurity/blob/main/Security%20risk%20assessment%20report.pdf">Manage Security Risks Lab</a>|
 | Vulnerability assessment | <a href="https://google.com">Detection Lab</a>|
 | Threat Analysis & Vulnerabilities Assessment        | SOC Automation Lab|
 | Incident Response Planning and Execution      | Detection and Response Lab|

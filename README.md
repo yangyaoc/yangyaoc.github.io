@@ -5,6 +5,8 @@ I have 7 years of experices in digital marketing, ecommerce, cloud services, and
 <div>📍Hong Kong</div>
 <div>🌐 Mandarin & English </div>
 <div>✉️<a href="mailto:yangyaoc@gmail.com"> yangyaoc@gmail.com</a></div>
+<div><a aria-label="Chat on WhatsApp" href="https://wa.me/85255094180"> <img alt="Chat on WhatsApp" src="WhatsAppButtonGreenLarge.png" />
+<a /></div>
 
 ## Objective
 My journey in digital realm has led me to develop a passion for cybersecurity, and I am now eager to transition into this field, specifically aiming to join as a cybersecurity analyst.

@@ -11,14 +11,16 @@ My journey in digital realm has led me to develop a passion for cybersecurity, a
 
 ## Skills
 
-| Skill                                         | Associated Portfolio         |
+| Projects                                         | Skills         |
 |-----------------------------------------------|----------------------------|
-| Network Traffic Analysis          |Network Lab|
-| Vulnerability assessment | <a href="https://github.com/yangyaoc/cybersecurity/blob/main/Security%20risk%20assessment%20report.pdf" target="_blank">Manage Security Risks Lab</a>|
-| Threat Analysis & Vulnerabilities Assessment        | SOC Automation Lab|
-| Incident Response Planning and Execution      | Detection and Response Lab|
-| NIST Risk Management Framework (RMF) / Cybersecurity Framework (CSF)   | Framework Lab|
-| Scripting and Automation for Threat Mitigation | Python Automation Lab|
+| 1. Conduct a security audit          |Network Lab|
+| 2. Network Security | <a href="https://github.com/yangyaoc/cybersecurity/blob/main/Security%20risk%20assessment%20report.pdf" target="_blank">Manage Security Risks Lab</a>|
+| 3. Linux & SQL        | SOC Automation Lab|
+| 4. Threat Intelligence     | Detection and Response Lab|
+| 5. Detection & Response   | Framework Lab|
+| 6. Python Automation for Threat Mitigation | Python Automation Lab|
+**note** 
+ in PDF format to accommodate advanced formatting, include colorful presentations, and incorporate abundant screenshots for enhanced clarity and detail.
 
 ## Tools
 <div>

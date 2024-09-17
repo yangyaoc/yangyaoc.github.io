@@ -28,8 +28,8 @@ My journey in digital realm has led me to develop a passion for cybersecurity, a
     <img src="https://img.shields.io/badge/-Linux command line-ffde57?&style=for-the-badge&logo=Linux&logoColor=black" />
 </div>
 
-## Certifications
-- Google Cybersecurity
+## Certification
+- Google Cybersecurity - Aug, 2024
 <div>
 <a href="https://www.coursera.org/account/accomplishments/professional-cert/R2JGMY6SET32"><img src="https://s3.amazonaws.com/coursera_assets/meta_images/generated/CERTIFICATE_LANDING_PAGE/CERTIFICATE_LANDING_PAGE~R2JGMY6SET32/CERTIFICATE_LANDING_PAGE~R2JGMY6SET32.jpeg" /></a>
 

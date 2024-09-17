@@ -7,17 +7,15 @@
 
 
 ## Objective
-My journey in digital realm has led me to develop a passion for cybersecurity, and I am now eager to transition into this field, specifically aiming to join as a <ins>cybersecurity analyst</ins>. This is my portfolio which demonstrates that I have the skillsets to monitor, analyze, and respond to security incidents. As of 2024, I am preparing to be `CISSP` certified.
+My journey in digital realm has led me to develop a passion for cybersecurity, and I am now eager to transition into this field, specifically aiming to join as a <ins>cybersecurity analyst</ins>. This is my portfolio which demonstrates that I have the skillsets to monitor, analyze, and respond to security incidents. 
 
-## Skills
-
-| Projects                                         | Skills         |
-|-----------------------------------------------|----------------------------|
-| 1. Conduct a security audit          |Network Lab|
-| 2. Network Security | <a href="https://github.com/yangyaoc/cybersecurity/blob/main/Security%20risk%20assessment%20report.pdf" target="_blank">Manage Security Risks Lab</a>|
-| 3. Linux & SQL        | SOC Automation Lab|
-| 4. Threat Intelligence     | Detection and Response Lab|
-| 5. Detection & Response   | Framework Lab|
+| Projects                   | Skills                                   |
+|----------------------------|------------------------------------------|
+| 1. Conduct a security audit          |`NIST Risk Management Framework`, `Security Audits`, `NIST Cybersecurity Framework`, `Incident Response Playbooks`|
+| 2. Network Security | `TCP/IP model`, `Network Architecture`, `Network Communication`, `Security Hardening`, `Network Security`, `Cloud Networks`|
+| 3. Linux & SQL        | `Command-line Interface`, `SQL`, `Linux`, `Bash`|
+| 4. Threat Intelligence     | `Vulnerability assessment`, `Asset Classification`, `Threat Modelling Analysis`|
+| 5. Detection & Response   | `Incident Lifecycle`, `Incident Journal`|
 | 6. Python Automation for Threat Mitigation | Python Automation Lab|
 
 ## Tools

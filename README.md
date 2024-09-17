@@ -8,7 +8,7 @@ I have 7 years of experices in digital marketing, ecommerce, cloud services, and
 
 
 ## Objective
-My journey in digital realm has led me to develop a passion for cybersecurity, and I am now eager to transition into this field, specifically aiming to join as a cybersecurity analyst.
+My journey in digital realm has led me to develop a passion for cybersecurity, and I am now eager to transition into this field, specifically aiming to join as a cybersecurity analyst. This is my portfolio webiste that demonstrates that I'm able to monitor, analyze, and respond to security incidents.
 
 ## Skills
 

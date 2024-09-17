@@ -4,7 +4,7 @@
 I have 7 years of experices in digital marketing, ecommerce, cloud services, and payment solutions. 
 <div>📍Hong Kong</div>
 <div>🌐 Mandarin & English </div>
-<div>📧 yangyaoc@gmail.com</div>
+<div>📧 <a href="mailto:yangyaoc@gmail.com">Eyangyaoc@gmail.com</a></div>
 
 ## Objective
 My journey in digital realm has led me to develop a passion for cybersecurity, and I am now eager to transition into this field, specifically aiming to join as a cybersecurity analyst.

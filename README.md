@@ -6,7 +6,7 @@
 <div>✉️<a href="mailto:yangyaoc@gmail.com"> yangyaoc@gmail.com </a></div>
 
 ## Objective
-My journey in digital realm has led me to develop a passion for cybersecurity, and I am now eager to transition into this field, specifically aiming to join as a cybersecurity analyst. This is my portfolio webiste which demonstrates that I have skillsets to monitor, analyze, and respond to security incidents.
+My journey in digital realm has led me to develop a passion for cybersecurity, and I am now eager to transition into this field, specifically aiming to join as a cybersecurity analyst. This is my portfolio webiste which demonstrates that I have the skillsets to monitor, analyze, and respond to security incidents.
 
 ## Skills
 

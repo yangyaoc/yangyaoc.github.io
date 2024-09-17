@@ -9,7 +9,7 @@ My journey in digital realm has led me to develop a passion for cybersecurity, a
 ## Skills
 [Provide skills and associated project. Make sure to hyperlink the project - Remove this afterwards]]
 
-| Skill                                         | Associated Project         |
+| Skill                                         | Associated Portfolio         |
 |-----------------------------------------------|----------------------------|
 | Network Traffic Analysis          | <a href="https://google.com">Manage Security Risks Lab</a>|
 | Vulnerability assessment | <a href="https://google.com">Detection Lab</a>|

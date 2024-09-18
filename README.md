@@ -11,7 +11,7 @@ My journey in digital realm has led me to develop a passion for cybersecurity, a
 
 | Projects                   | Skills / Knowledges                                  |
 |----------------------------|------------------------------------------|
-| 1. Conduct a security audit          |`NIST Risk Management Framework`, `Security Audits`, `NIST Cybersecurity Framework`, `Incident Response Playbooks`|
+| 1. Conduct a security audit          |`NIST Risk Management Framework (RMF)`, `Security Audits`, `NIST Cybersecurity Framework`, `Incident Response Playbooks`|
 | 2. Network Security | `TCP/IP model`, `Network Architecture`, `Network Communication`, `Security Hardening`, `Network Security`, `Cloud Networks`|
 | 3. Linux & SQL        | `Command-line Interface`, `SQL`, `Linux`, `Bash`|
 | 4. Threat Intelligence     | `Vulnerability assessment`, `Asset Classification`, `Threat Modelling Analysis`|

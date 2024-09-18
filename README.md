@@ -11,7 +11,7 @@ My journey in digital realm has led me to develop a passion for cybersecurity, a
 
 | Projects                   | Skills / Knowledges                                  |
 |----------------------------|------------------------------------------------------|
-| 1. <a href="securityaudit.md">Conduct a security audit </a>         |`NIST Risk Management Framework (RMF)`, `Security Audits`, `NIST Cybersecurity Framework`, `Incident Response Playbooks`|
+| 1. <a href="Security Audit">Conduct a security audit </a>         |`NIST Risk Management Framework (RMF)`, `Security Audits`, `NIST Cybersecurity Framework`, `Incident Response Playbooks`|
 | 2. Network Security | `TCP/IP model`, `Network Architecture`, `Network Communication`, `Security Hardening`, `Network Security`, `Cloud Networks`|
 | 3. <a href="Linux/File Permissions.md">Linux</a> & <a href="SQL/Apply Filters.md">SQL</a>        | `Command-line Interface`, `SQL`, `Linux`, `Bash`|
 | 4. <a href = "Vulnerability Assessment Report">Assets, Threats, & Vulnerabilities </a>  | `NIST SP 800-30`, `Asset Classification`, `Vulnerabilities Assessment`,`Threat Modelling Analysis`, `Risk Assessment`|

@@ -14,7 +14,7 @@ My journey in digital realm has led me to develop a passion for cybersecurity, a
 | 1. <a href="securityaudit.md">Conduct a security audit </a>         |`NIST Risk Management Framework (RMF)`, `Security Audits`, `NIST Cybersecurity Framework`, `Incident Response Playbooks`|
 | 2. Network Security | `TCP/IP model`, `Network Architecture`, `Network Communication`, `Security Hardening`, `Network Security`, `Cloud Networks`|
 | 3. <a href="File Permissions.md">Linux</a> & SQL        | `Command-line Interface`, `SQL`, `Linux`, `Bash`|
-| 4. Vulnerability Assessment Report   | `NIST SP 800-30`, `Asset Classification`, `Threat Modelling Analysis`, `Risk Assessment`|
+| 4. Assets, Threats, & Vulnerabilities   | `NIST SP 800-30`, `Asset Classification`, `Vulnerabilities Assessment`,`Threat Modelling Analysis`, `Risk Assessment`|
 | 5. IDS & SIEM   | `Intrusion Detection System (IDS): Suricata`, `Security Information and Event Management (SIEM): Chronicle, Splunk`|
 | 6. Detection & Response   | `Incident Lifecycle`, `Incident Journal`|
 | 7. Python Automation for Threat Mitigation | `Computer Programming`, `Python Programming`, `Coding`, `PEP 8 Style Guide`|

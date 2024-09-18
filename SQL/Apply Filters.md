@@ -34,5 +34,6 @@ The upper part of the screenshot is my query, and the lower part is a portion of
 This query shows all login attempts that occurred on 2022-05-09 or 2022-05-08. 
 1) I started by selecting all data from the `log_in_attempts table`.
 2) Then, I used a `WHERE` clause with an `OR` operator to filter my results to output only login attempts that occurred on either
-2022-05-09 or 2022-05-08. The first condition is `login_date = '2022-05-09'`, which filters for logins on 2022-05-09. The second condition is `login_date = '2022-05-08'`, which filters for logins on 2022-05-08.
+2022-05-09 or 2022-05-08.
+The first condition is `login_date = '2022-05-09'`, which filters for logins on 2022-05-09. The second condition is `login_date = '2022-05-08'`, which filters for logins on 2022-05-08.
 

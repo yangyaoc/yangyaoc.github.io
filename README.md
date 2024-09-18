@@ -16,7 +16,7 @@ My journey in digital realm has led me to develop a passion for cybersecurity, a
 | 3. <a href="File Permissions.md">Linux</a> & <a href="Apply Filters(SQL).md">SQL</a>        | `Command-line Interface`, `SQL`, `Linux`, `Bash`|
 | 4. <a href = "Vulnerability Assessment Report.md">Assets, Threats, & Vulnerabilities </a>  | `NIST SP 800-30`, `Asset Classification`, `Vulnerabilities Assessment`,`Threat Modelling Analysis`, `Risk Assessment`|
 | 5. IDS & SIEM   | `Intrusion Detection System (IDS): Suricata`, `Security Information and Event Management (SIEM): Chronicle, Splunk`|
-| 6. <a href ="Incident Report.md">Detection & Response</a>   | `Incident Lifecycle`, `Incident Journal`|
+| 6. <a href ="Detection & Response">Detection & Response</a>   | `Incident Lifecycle`, `Incident Journal`|
 | 7. Python Automation for Threat Mitigation | `Computer Programming`, `Python Programming`, `Coding`, `PEP 8 Style Guide`|
 | 8. Packet Analyzer | `Tcpdump`, `Wireshark`|
 <div></div>

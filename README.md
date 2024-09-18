@@ -15,8 +15,10 @@ My journey in digital realm has led me to develop a passion for cybersecurity, a
 | 2. Network Security | `TCP/IP model`, `Network Architecture`, `Network Communication`, `Security Hardening`, `Network Security`, `Cloud Networks`|
 | 3. Linux & SQL        | `Command-line Interface`, `SQL`, `Linux`, `Bash`|
 | 4. Threat Intelligence     | `Vulnerability assessment`, `Asset Classification`, `Threat Modelling Analysis`|
-| 5. Detection & Response   | `Incident Lifecycle`, `Incident Journal`|
-| 6. Python Automation for Threat Mitigation | Python Automation Lab|
+| 5. IDS & SIEM   | `Intrusion Detection System (IDS): Suricata`, `Security Information and Event Management (SIEM): Chronicle, Splunk`|
+| 6. Detection & Response   | `Incident Lifecycle`, `Incident Journal`|
+| 7. Python Automation for Threat Mitigation | Python Automation Lab|
+<div></div>
 
 ## Tools
 <div>

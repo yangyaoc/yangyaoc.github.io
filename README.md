@@ -19,7 +19,7 @@ My journey in digital realm has led me to develop a passion for cybersecurity, a
 | 6. <a href ="Detection & Response">Detection & Response</a>   | `Incident Lifecycle`, `Incident Journal`|
 | 7. Python Automation for Threat Mitigation | `Computer Programming`, `Python Programming`, `Coding`, `PEP 8 Style Guide`|
 | 8. Packet Analyzer | `Tcpdump`, `Wireshark`|
-<div></div>
+
 
 ## Tools
 <div>

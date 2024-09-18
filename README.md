@@ -18,6 +18,7 @@ My journey in digital realm has led me to develop a passion for cybersecurity, a
 | 5. IDS & SIEM   | `Intrusion Detection System (IDS): Suricata`, `Security Information and Event Management (SIEM): Chronicle, Splunk`|
 | 6. <a href ="Incident Report.md">Detection & Response</a>   | `Incident Lifecycle`, `Incident Journal`|
 | 7. Python Automation for Threat Mitigation | `Computer Programming`, `Python Programming`, `Coding`, `PEP 8 Style Guide`|
+| 8. Packet Analyzer | `Tcpdump`, `Wireshark`|
 <div></div>
 
 ## Tools

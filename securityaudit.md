@@ -1,4 +1,4 @@
-##Scenario
+## Scenario
 
 This scenario is based on a fictional company:
 
@@ -10,5 +10,19 @@ The IT manager starts by implementing the National Institute of Standards and Te
 
 Your task is to review the IT manager’s scope, goals, and risk assessment report. Then, perform an internal audit by completing a controls and compliance checklist. 
 
-##Security risk assessment report 
 
+
+## Security risk assessment report 
+
+<img width="688" alt="Screenshot 2024-09-18 at 10 59 55 AM" src="https://github.com/user-attachments/assets/08bb9b67-d14c-446e-a76d-6b2c0a6c1062">
+
+
+| Part 1: Select up to three hardening tools and methods to implement     |
+|-------------------------------------------------------------------------|
+|1）Password policies
+2）Multifactor authentication (MFA)
+3）Network access privileges|
+
+| Part 2: Explain your recommendations   |
+|-------------------------------------------------------------------------|
+|Currently, employees share passwords and the admin password is still the default one. It’s recommended to implement password policies which are used to prevent attackers from easily guessing user passwords, either manually or by using a script to attempt thousands of stolen passwords (commonly called a brute force attack). Also, by implementing MFA, it can help protect against brute force attacks and similar security events. MFA and password policies can be implemented at any time, and is mostly a technique that is set up once then maintained.|

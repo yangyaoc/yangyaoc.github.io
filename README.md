@@ -9,7 +9,7 @@
 ## Objective
 My journey in digital realm has led me to develop a passion for cybersecurity, and I am now eager to transition into this field, specifically aiming to join as a <ins>cybersecurity analyst</ins>. This is my portfolio which demonstrates that I have the skillsets to monitor, analyze, and respond to security incidents. 
 
-| Projects                   | Skills                                   |
+| Projects                   | Skills / Knowledges                                  |
 |----------------------------|------------------------------------------|
 | 1. Conduct a security audit          |`NIST Risk Management Framework`, `Security Audits`, `NIST Cybersecurity Framework`, `Incident Response Playbooks`|
 | 2. Network Security | `TCP/IP model`, `Network Architecture`, `Network Communication`, `Security Hardening`, `Network Security`, `Cloud Networks`|

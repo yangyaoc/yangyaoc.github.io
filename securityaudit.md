@@ -14,8 +14,6 @@ Your task is to review the IT manager’s scope, goals, and risk assessment repo
 
 ## Security risk assessment report 
 
-<img width="688" alt="Screenshot 2024-09-18 at 10 59 55 AM" src="https://github.com/user-attachments/assets/08bb9b67-d14c-446e-a76d-6b2c0a6c1062">
-
 
 | Part 1: Select up to three hardening tools and methods to implement     |
 |-------------------------------------------------------------------------|

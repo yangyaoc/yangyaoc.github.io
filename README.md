@@ -17,7 +17,7 @@ My journey in digital realm has led me to develop a passion for cybersecurity, a
 | 4. Threat Intelligence     | `Vulnerability assessment`, `Asset Classification`, `Threat Modelling Analysis`|
 | 5. IDS & SIEM   | `Intrusion Detection System (IDS): Suricata`, `Security Information and Event Management (SIEM): Chronicle, Splunk`|
 | 6. Detection & Response   | `Incident Lifecycle`, `Incident Journal`|
-| 7. Python Automation for Threat Mitigation | Python Automation Lab|
+| 7. Python Automation for Threat Mitigation | `Computer Programming`, `Python Programming`, `Coding`, `PEP 8 Style Guide`|
 <div></div>
 
 ## Tools

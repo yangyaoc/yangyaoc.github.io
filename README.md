@@ -10,7 +10,7 @@
 My journey in digital realm has led me to develop a passion for cybersecurity, and I am now eager to transition into this field, specifically aiming to join as a <ins>cybersecurity analyst</ins>. This is my portfolio which demonstrates that I have the skillsets to monitor, analyze, and respond to security incidents. 
 
 | Projects                   | Skills / Knowledges                                  |
-|----------------------------|------------------------------------------|
+|----------------------------|------------------------------------------------------|
 | 1. <a href="securityaudit.md">Conduct a security audit </a>         |`NIST Risk Management Framework (RMF)`, `Security Audits`, `NIST Cybersecurity Framework`, `Incident Response Playbooks`|
 | 2. Network Security | `TCP/IP model`, `Network Architecture`, `Network Communication`, `Security Hardening`, `Network Security`, `Cloud Networks`|
 | 3. <a href="Linux/File Permissions.md">Linux</a> & <a href="SQL/Apply Filters.md">SQL</a>        | `Command-line Interface`, `SQL`, `Linux`, `Bash`|

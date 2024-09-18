@@ -17,16 +17,3 @@ Links to supporting materials:
 <a href="https://docs.google.com/document/d/1HsIw5HNDbRXzW7pmhPLsK06B7HF-KMifENO_TlccbSU/template/preview">Control categories</a>
 
 
-
-## Security risk assessment report 
-
-
-| Part 1: Select up to three hardening tools and methods to implement     |
-|-------------------------------------------------------------------------|
-|1）Password policies
-2）Multifactor authentication (MFA)
-3）Network access privileges|
-
-| Part 2: Explain your recommendations   |
-|-------------------------------------------------------------------------|
-|Currently, employees share passwords and the admin password is still the default one. It’s recommended to implement password policies which are used to prevent attackers from easily guessing user passwords, either manually or by using a script to attempt thousands of stolen passwords (commonly called a brute force attack). Also, by implementing MFA, it can help protect against brute force attacks and similar security events. MFA and password policies can be implemented at any time, and is mostly a technique that is set up once then maintained.|

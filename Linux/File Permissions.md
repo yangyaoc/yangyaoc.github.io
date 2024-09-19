@@ -16,3 +16,9 @@ The 10-character string can be deconstructed to determine who is authorized to a
 | 2nd-4th characters |They represent the read (`r`), write (`w`), and execute (`x`) permissions for the user. When one of these characters is a hyphen (-) instead, it means this permission is not granted to the user.|
 | 5th-7th characters|They represent the read (`r`), write (`w`), and execute (`x`) permissions for the group. When one of these characters is a hyphen (`-`) instead, it means that this permission is not granted for the group.|
 | 8th-10th characters|They indicate the read (`r`), write (`w`), and execute (`x`) permissions for other. This owner type consists of all other users on the system apart from the user and the group.  (`-`) represents that this permission is not granted for other|
+
+## Change file permissions
+The organization decided that other shouldn't have write access to any of their files. To follow this rule, I referred to the file permissions that I previously returned. I determined `project_k.txt` must have the write access removed for other.
+
+The below code demonstrates how I used Linux commands to do this:
+

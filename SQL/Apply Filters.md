@@ -59,16 +59,20 @@ My team wants to update the computers for certain employees in the Marketing dep
 To do this, I have to get information on which employee machines to update.
 The following code demonstrates how I created a SQL query to filter for employee machines
 from employees in the Marketing department in the East building.
+
 <img width="639" alt="Screenshot 2024-09-19 at 8 08 25 AM" src="https://github.com/user-attachments/assets/471f88f2-5567-4767-81c5-d15153c5c534">
 
 The upper part of the screenshot is my query, and the lower part is a portion of the output.
-This query shows all employees in the Marketing department in the East building. 
+This query shows all employees in the Marketing department in the East building.
+
 1)I started by selecting all data from the `employees` table. 
 2)I used a `WHERE` clause with `AND` to filter for employees who work in the Marketing department and in the East building. I used
 `LIKE` with `East%` as the pattern to match because the data in the `office` column represents
 the East building with the specific office number. 
-<br>The first condition is the `department =
-'Marketing'` portion, which filters for employees in the Marketing department. The second
+<br>The first condition is the `department ='Marketing'` portion, which filters for employees in the Marketing department. The second
 condition is the `office LIKE 'East%'` portion, which filters for employees in the East
 building.
 
+## Summary
+There are two tables I used, `log_in_attempts` and `employees`. I also used the `AND`,
+`OR`, and `NOT` operators to filter for specific task. To find patterns, I used `LIKE` and the percentage sign (`%`) wildcard. 

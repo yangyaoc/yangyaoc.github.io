@@ -37,4 +37,16 @@ This query shows all login attempts that occurred on 2022-05-09 or 2022-05-08.
 2022-05-09 or 2022-05-08.
 <div>The first condition is `login_date = '2022-05-09'`, which filters for logins on 2022-05-09. The second condition is `login_date = '2022-05-08'`, which filters for logins on 2022-05-08.</div>
 
+##Retrieve login attempts outside of Mexico
+After filtering the organization’s data on login attempts, I think there is an issue with the
+login attempts that occurred outside of Mexico. These login attempts should be investigated.
+The following code shows how I wrote a SQL query to filter for login attempts which
+occurred outside of Mexico.
+<img width="623" alt="Screenshot 2024-09-19 at 7 57 34 AM" src="https://github.com/user-attachments/assets/7f22a85c-8051-45fa-ace7-c3a6f4dc7cc2">
 
+The upper part of the screenshot is my query, and the lower part is a part of the output.
+This query shows all login attempts that occurred in countries that are not Mexico. 
+1) I started by selecting all data from the `log_in_attempts` table.
+2) I used a `WHERE` clause with `NOT` to filter for countries other than Mexico. I used `LIKE` with `MEX%` as the pattern to
+match because the dataset represents Mexico as `MEX` and `MEXICO`. The percentage sign (`%`)
+represents any number of unspecified characters when used with `LIKE`.

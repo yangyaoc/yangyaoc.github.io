@@ -20,5 +20,5 @@ The 10-character string can be deconstructed to determine who is authorized to a
 ## Change file permissions
 The organization decided that other shouldn't have write access to any of their files. To follow this rule, I referred to the file permissions that I previously returned. I determined `project_k.txt` must have the write access removed for other.
 
-The below code demonstrates how I used Linux commands to do this:
-
+The code below shows how I wrote Linux commands to do this:
+<img width="645" alt="Screenshot 2024-09-19 at 9 21 44 PM" src="https://github.com/user-attachments/assets/d1d9396f-9315-4059-ab52-75ad65db1c67">

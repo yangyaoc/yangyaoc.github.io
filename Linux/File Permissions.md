@@ -14,3 +14,5 @@ The 10-character string can be deconstructed to determine who is authorized to a
 |----------------------------|------------------------------------------------------|
 | 1st character |It is either a `d` or hyphen (`-`) and indicates the file type.  `d` is a directory. (`-`) is a regular file.|
 | 2nd-4th characters |They represent the read (`r`), write (`w`), and execute (`x`) permissions for the user. When one of these characters is a hyphen (-) instead, it means this permission is not granted to the user.|
+| 5th-7th characters|They represent the read (`r`), write (`w`), and execute (`x`) permissions for the group. When one of these characters is a hyphen (`-`) instead, it means that this permission is not granted for the group.|
+| 8th-10th characters|They indicate the read (`r`), write (`w`), and execute (`x`) permissions for other. This owner type consists of all other users on the system apart from the user and the group.  (`-`) represents that this permission is not granted for other|

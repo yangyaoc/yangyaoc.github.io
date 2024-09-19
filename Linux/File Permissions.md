@@ -22,3 +22,5 @@ The organization decided that other shouldn't have write access to any of their 
 
 The code below shows how I wrote Linux commands to do this:
 <img width="645" alt="Screenshot 2024-09-19 at 9 21 44 PM" src="https://github.com/user-attachments/assets/d1d9396f-9315-4059-ab52-75ad65db1c67">
+
+The first two lines show the commands I input, and the other lines demonstrate the output of the 2nd command. The `chmod` command modifies the permissions on files & directories. The first argument means what permissions should be changed, and the second argument specifies the file or directory. In this example, I removed write permissions from other for the `project_k.txt` file. After this, I used `ls` -`la` to review the updates I made.

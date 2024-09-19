@@ -6,7 +6,7 @@ is safe, investigate all potential security issues, and update employee computer
 The following steps provide examples of how I used SQL with filters to perform
 security-related tasks.
 
-## Retrieve after hours failed login attempts
+## 1) Retrieve after hours failed login attempts
 There was a potential security incident that occurred after business hours (after 18:00). All after
 hours login attempts that failed need to be investigated.
 The following code demonstrates how I created a SQL query to filter for failed login attempts
@@ -24,7 +24,7 @@ unsuccessful.
 attempts that occurred after 18:00. The second condition is `success = FALSE`, which filters
 for the failed login attempts.
 
-## Retrieve login attempts on specific dates
+## 2) Retrieve login attempts on specific dates
 An irregular event occurred on 2022-05-09. I need to investigate any login activity that happened on 2022-05-09
 or on the day before.
 
@@ -39,7 +39,7 @@ This query shows all login attempts that occurred on 2022-05-09 or 2022-05-08.
 2022-05-09 or 2022-05-08.
 <br>The first condition is `login_date = '2022-05-09'`, which filters for logins on 2022-05-09. The second condition is `login_date = '2022-05-08'`, which filters for logins on 2022-05-08.
 
-## Retrieve login attempts outside of Mexico
+## 3) Retrieve login attempts outside of Mexico
 After filtering the organization’s data on login attempts, I think there is an issue with the
 login attempts that occurred outside of Mexico. These login attempts should be investigated.
 The following code shows how I wrote a SQL query to filter for login attempts which
@@ -54,7 +54,7 @@ This query shows all login attempts that occurred in countries that are not Mexi
 match because the dataset represents Mexico as `MEX` and `MEXICO`. The percentage sign (`%`)
 represents any number of unspecified characters when used with `LIKE`.
 
-## Retrieve employees in Marketing
+## 4）Retrieve employees in Marketing
 My team wants to update the computers for certain employees in the Marketing department.
 To do this, I have to get information on which employee machines to update.
 The following code demonstrates how I created a SQL query to filter for employee machines

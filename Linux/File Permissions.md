@@ -10,3 +10,6 @@ The first line of the screenshot shows the command I input, and the rest display
 
 ## Describe the permissions string
 The 10-character string can be deconstructed to determine who is authorized to access the file and their specific permissions. The characters and what they represent are as follows:
+| Character                   | Description                                 |
+|----------------------------|------------------------------------------------------|
+| 1st character |It is either a `d` or hyphen (`-`) and indicates the file type.  `d` is a directory. (`-`) is a regular file.|

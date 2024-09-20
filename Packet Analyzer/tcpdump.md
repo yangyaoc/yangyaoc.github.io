@@ -30,6 +30,12 @@ This command will run tcpdump with the following options:
 - `c5`: Capture 5 packets of data.
 <img width="715" alt="Screenshot 2024-09-20 at 11 12 04 AM" src="https://github.com/user-attachments/assets/639da073-bf14-4f62-8bea-f17001622323">
 
-### Exploring network packet details
-
+## Task 3. Capture network traffic with tcpdump
+1. Capture packet data into a file called `capture.pcap`:
+- `-i eth0`: Capture data from the `eth0` interface.
+- `-nn`: Do not attempt to resolve IP addresses or ports to names.This is best practice from a security perspective, as the lookup data may not be valid. It also prevents malicious actors from being alerted to an investigation.
+- `-c9`: Capture 9 packets of data and then exit.
+- `port 80`: Filter only port 80 traffic. This is the default HTTP port.
+- `-w capture.pcap`: Save the captured data to the named file.
+- `&`: This is an instruction to the Bash shell to run the command in the background.
 

@@ -43,6 +43,8 @@ This command will run tcpdump with the following options:
 
 2. Use curl to generate some HTTP (port 80) traffic:
 <img width="710" alt="Screenshot 2024-09-20 at 6 04 34 PM" src="https://github.com/user-attachments/assets/b0a5712b-4aec-49f3-9f25-2f48fd72f4e2">
+
+
 When the `curl` command is used like this to open a website, it generates some HTTP (TCP port 80) traffic that can be captured.
 
 

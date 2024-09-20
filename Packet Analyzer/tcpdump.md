@@ -39,3 +39,5 @@ This command will run tcpdump with the following options:
 - `-w capture.pcap`: Save the captured data to the named file.
 - `&`: This is an instruction to the Bash shell to run the command in the background.
 
+<img width="710" alt="Screenshot 2024-09-20 at 12 42 08 PM" src="https://github.com/user-attachments/assets/88b49b44-855b-4f03-87db-26a9d6b89fbd">
+

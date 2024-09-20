@@ -20,7 +20,7 @@ My journey in digital realm has led me to develop a passion for cybersecurity, a
 | 7. Python Automation for Threat Mitigation | `Computer Programming`, `Python Programming`, `Coding`, `PEP 8 Style Guide`|
 | 8. Packet Analyzer | `Tcpdump`, `Wireshark`|
 > [!NOTE]  
-> Coding tasks were completed via Qwiklabs, a Google cloud hands-on learning lab. 
+> Coding tasks were completed on Qwiklabs, a Google cloud hands-on learning lab. 
 ## Tools
 <div>
     <img src="https://img.shields.io/badge/-Wireshark-1679A7?&style=for-the-badge&logo=Wireshark&logoColor=white" />

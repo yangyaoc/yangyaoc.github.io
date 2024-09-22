@@ -17,8 +17,7 @@ My journey in digital realm has led me to develop a passion for cybersecurity, a
 | 4. <a href = "Vulnerability Assessment Report">Assets, Threats, & Vulnerabilities </a>  | `NIST SP 800-30`, `Asset Classification`, `Vulnerabilities Assessment`,`Threat Modelling Analysis`, `Risk Assessment`|
 | 5. IDS & SIEM   | `Intrusion Detection System (IDS): Suricata`, `Security Information and Event Management (SIEM): Chronicle, Splunk`|
 | 6. <a href ="Detection & Response">Detection & Response</a>   | `Incident Lifecycle`, `Incident Journal`|
-| 7. Python Automation for Threat Mitigation | `Computer Programming`, `Python Programming`, `Coding`, `PEP 8 Style Guide`|
-| 8. <a href ="Packet Analyzer">Packet Analyzer</a>| `Tcpdump`, `Wireshark`|
+| 7. <a href ="Packet Analyzer">Packet Analyzer</a>| `Tcpdump`, `Wireshark`|
 > [!NOTE]  
 > Coding tasks were completed on Qwiklabs, a Google cloud hands-on learning lab. 
 ## Tools

@@ -12,12 +12,11 @@ My journey in digital realm has led me to develop a passion for cybersecurity, a
 | Projects                   | Skills / Knowledges                                  |
 |----------------------------|------------------------------------------------------|
 | 1. <a href="Security Audit">Conduct a security audit </a>         |`NIST Risk Management Framework (RMF)`, `Security Audits`, `NIST Cybersecurity Framework`, `ISO27001`|
-| 2. Network Security | `TCP/IP model`, `Network Architecture`, `Network Communication`, `Security Hardening`, `Network Security`, `Cloud Networks`|
-| 3. <a href="Linux/File Permissions.md">Linux</a> & <a href="SQL/Apply Filters.md">SQL</a>        | `Command-line Interface`, `SQL`, `Linux`, `Bash`|
-| 4. <a href = "Vulnerability Assessment Report">Assets, Threats, & Vulnerabilities </a>  | `NIST SP 800-30`, `Asset Classification`, `Vulnerabilities Assessment`,`Threat Modelling Analysis`, `Risk Assessment`|
-| 5. IDS & SIEM   | `Intrusion Detection System (IDS): Suricata`, `Security Information and Event Management (SIEM): Chronicle, Splunk`|
-| 6. <a href ="Detection & Response">Detection & Response</a>   | `Incident Lifecycle`, `Incident Journal`|
-| 7. <a href ="Packet Analyzer">Packet Analyzer</a>| `Tcpdump`, `Wireshark`|
+| 2. <a href="Linux/File Permissions.md">Linux</a> & <a href="SQL/Apply Filters.md">SQL</a>        | `Command-line Interface`, `SQL`, `Linux`, `Bash`|
+| 3. <a href = "Vulnerability Assessment Report">Assets, Threats, & Vulnerabilities </a>  | `NIST SP 800-30`, `Asset Classification`, `Vulnerabilities Assessment`,`Threat Modelling Analysis`, `Risk Assessment`|
+| 4. IDS & SIEM   | `Intrusion Detection System (IDS): Suricata`, `Security Information and Event Management (SIEM): Chronicle, Splunk`|
+| 5. <a href ="Detection & Response">Detection & Response</a>   | `Incident Lifecycle`, `Incident Journal`|
+| 6. <a href ="Packet Analyzer">Packet Analyzer</a>| `Tcpdump`, `Wireshark`|
 > [!NOTE]  
 > Coding tasks were completed on Qwiklabs, a Google cloud hands-on learning lab. 
 ## Tools
